@@ -1,0 +1,19 @@
+{
+  "name": "mode-small-caps",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madebymode/mode-small-caps.git"
+  },
+  "author": "MODE <developers@madebymode.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madebymode/mode-small-caps/issues"
+  },
+  "homepage": "https://github.com/madebymode/mode-small-caps#readme"
+}
